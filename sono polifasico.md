@@ -267,17 +267,17 @@ Duas semanas se passaram e eu me sentia 90% adaptado, e tinha sobrevivido a:
 
 ---
 
-| Horário   |                     Atividade |
-|:--------- | ----------------------------:|
-| 2:30      |             Acordar e tomar banho |
-| 7:00-7:20 |                     Cochilo E2 1 |
-| 7:30      |          Café da manhã (dia útil) |
-| 8:00      |         Início do trabalho (dia útil) |
-| 13:00     |                     Cochilo E2 2 |
-| 13:20     |              Almoço e exercício |
-| 14:00     |       De volta ao trabalho (dia útil) |
-| 18:30     |                       Jantar |
-| 22:00     |                Sono Principal E2 |
+| Horário   |                      Atividade |
+|:--------- |   ----------------------------:|
+| 2:30      |          Acordar e tomar banho |
+| 7:00-7:20 |                   Cochilo E2 1 |
+| 7:30      |       Café da manhã (dia útil) |
+| 8:00      |  Início do trabalho (dia útil) |
+| 13:00     |                   Cochilo E2 2 |
+| 13:20     |             Almoço e exercício |
+| 14:00     |De volta ao trabalho (dia útil) |
+| 18:30     |                         Jantar |
+| 22:00     |              Sono Principal E2 |
 
 Notas:
 
